@@ -1,2 +1,5 @@
-# Projects
-Here you can find different projects that I'm working on.
+This is a classification task, where the goal is to predict whether a passenger on the Titanic survived or not. The target variable in this dataset is the "Survived" column, which is a binary variable indicating whether the passenger survived (1) or not (0). The other features in the dataset, such as Pclass (passenger class), Sex, Age, SibSp (number of siblings/spouses aboard), Parch (number of parents/children aboard), Fare, Embarked (port of embarkation), Cabin, and FamilySize, are used as input features to predict the survival outcome. 
+
+The objective is to train a machine learning model to learn the relationship between the input features and the survival outcome, and then use the trained model to make predictions on new, unseen data. The output of the model will be a probability or a binary prediction (0 or 1) indicating whether a passenger is predicted to have survived or not. The accuracy of the model can be evaluated by comparing the predicted values to the actual survival outcomes in the test set. 
+
+In summary, this is a binary classification task where the goal is to predict the survival outcome of Titanic passengers based on the available features in the dataset.
